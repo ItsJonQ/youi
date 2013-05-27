@@ -1,4 +1,8 @@
 /* The Base */
+* {
+	-webkit-font-smoothing: antialiased;
+}
+
 html,
 body {
 	background: #fafafa;
@@ -46,7 +50,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-weight: 300;
+	font-weight: normal;
 	line-height: 1.25em;
 	margin: 0px 0px 15px;
 }
