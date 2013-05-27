@@ -75,7 +75,7 @@ h6 {
 }
 
 .container {
-	width: 940px;
+	width: 1000px;
 }
 
 .container {
@@ -95,8 +95,13 @@ h6 {
 	clear: both;
 }
 
+.span100 {
+	width: 100%;
+	margin-left: auto;
+}
+
 .span12 {
-	width: 940px;
+	width: 1000px;
 }
 
 .span11 {
@@ -112,7 +117,7 @@ h6 {
 }
 
 .span8 {
-	width: 620px;
+	width: 640px;
 }
 
 .span7 {
@@ -128,7 +133,7 @@ h6 {
 }
 
 .span4 {
-	width: 300px;
+	width: 310px;
 }
 
 .span3 {
