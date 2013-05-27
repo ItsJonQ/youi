@@ -46,8 +46,17 @@ h3,
 h4,
 h5,
 h6 {
+	font-weight: 300;
 	line-height: 1.25em;
 	margin: 0px 0px 15px;
+}
+
+h3 {
+	font-size: 24px;
+}
+
+h4 {
+	font-size: 18px;
 }
 
 
@@ -154,6 +163,7 @@ h6 {
 	background: rgba(255,255,255,0.6);
 	box-shadow: 0px 1px 2px #eee;
 	margin: 0px 0px 20px;
+	position: relative;
 }
 
 .block-content {
@@ -164,10 +174,6 @@ h6 {
 	color: #444;
 }
 
-.block-title h3 {
-	font-size: 24px;
-}
-
 .block-image {
 	margin: 0px 0px 0px;
 }
@@ -175,10 +181,19 @@ h6 {
 .placeholder-image {
 	background: #999;
 	display: block;
-	padding-bottom: 52%;
+	padding-bottom: 54%;
 	width: 100%;
 }
 
 .block-excerpt {
 	font-size: 0.9em;
+}
+
+.big-featured .block-title {
+	color: white;
+	font-size: 48px;
+	position: absolute;
+	bottom: 0;
+	padding: 20px;
+	background: rgba(0,0,0,0.5);
 }

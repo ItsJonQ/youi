@@ -5,13 +5,13 @@
 		</div>
 		<div class="block-content">
 			<div class="block-title">
-				<h3>Xbox One will be region-locked</h3>
+				<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
 			</div>
 			<div class="block-meta">
 			</div>
 			<div class="block-excerpt">
 				<p>
-				Xbox One, Microsoft's next-generation console will be region-locked, a Microsoft representative confirmed with Digital Trends.
+				Proin volutpat nunc id mauris venenatis volutpat. Fusce tincidunt dolor nibh, non faucibus nulla. Nullam malesuada ligula sit amet..
 				</p>
 			</div>
 		</div>

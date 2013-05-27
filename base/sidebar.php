@@ -1,14 +1,14 @@
 <div class="span4">
-	<div class="row">
+		<?php include('ad-box.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
+		<?php include('ad-box.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
 		<?php include('post-mini-side.php'); ?>
-	</div>
 </div>

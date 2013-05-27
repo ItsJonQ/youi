@@ -5,15 +5,13 @@
 		</div>
 		<div class="block-content">
 			<div class="block-title">
-				<h3>Xbox One will be region-locked</h3>
+				<h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</h3>
 			</div>
 			<div class="block-meta">
 			</div>
 			<div class="block-excerpt">
 				<p>
-				Xbox One, Microsoft's next-generation console will be region-locked, a Microsoft representative confirmed with Digital Trends.
-				</p><p>
-				"Similar to the movie and music industry, games must meet country-specific regulatory guidelines before they are cleared for sale," a Microsoft spokesperson told Digital Trends. "We will continue to work with our partners to follow these guidelines with Xbox One."
+				Proin volutpat nunc id mauris venenatis volutpat. Fusce tincidunt dolor nibh, non faucibus nulla. Nullam malesuada ligula sit amet augue ornare ut accumsan mauris commodo. Suspendisse potenti. Mauris nunc lectus, accumsan et laoreet nec, vulputate non odio.
 				</p>
 			</div>
 		</div>
