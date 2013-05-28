@@ -4,7 +4,7 @@
 
 <div class="container">
 	<div class="row">
-		<?php include('blog.php'); ?>
+		<?php include('blog-full.php'); ?>
 	</div>
 </div>
 

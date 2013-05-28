@@ -10,9 +10,7 @@
 			<div class="block-meta">
 			</div>
 			<div class="block-excerpt">
-				<p>
 				Proin volutpat nunc id mauris venenatis volutpat. Fusce tincidunt dolor nibh, non faucibus nulla.
-				</p>
 			</div>
 		</div>
 	</div>
