@@ -2,7 +2,7 @@
 	<div class="row">
 		<?php include('post.php'); ?>
 
-		<div class="span4"=>
+		<div class="span4">
 			<div class="block-wrap block-clear">
 				<?php include('ad-box.php'); ?>
 			</div>

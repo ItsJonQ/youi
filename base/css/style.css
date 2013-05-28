@@ -56,7 +56,7 @@ h6 {
 }
 
 h3 {
-	font-size: 24px;
+	font-size: 21px;
 }
 
 h4 {
@@ -183,6 +183,12 @@ h4 {
 	overflow: hidden;
 }
 
+.block-image img {
+	height: auto;
+	max-width: 100%;
+	width: 100%;
+}
+
 .placeholder-image {
 	background: #999;
 	display: block;
@@ -194,13 +200,17 @@ h4 {
 	font-size: 0.9em;
 }
 
+.big-featured .block-image {
+	max-height: 500px;
+}
+
 .big-featured .block-title {
 	color: white;
-	font-size: 48px;
+	font-size: 42px;
 	position: absolute;
 	bottom: 0;
 	padding: 20px;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.65);
 }
 
 .block-clear {
@@ -210,7 +220,7 @@ h4 {
 
 .span8 .block-wrap,
 .span4 .block-wrap {
-	height: 400px;
+	height: 420px;
 	overflow: hidden;
 }
 
@@ -219,5 +229,5 @@ h4 {
 }
 
 .span4 .block-image {
-	max-height: 200px;
+	max-height: 175px;
 }
