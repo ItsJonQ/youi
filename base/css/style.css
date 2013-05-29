@@ -248,7 +248,6 @@ h4 {
 }
 
 .single .span8 .block-wrap {
-	margin-top: -80px;
 	height: inherit;
 	overflow: visible;
 }
@@ -278,4 +277,66 @@ h4 {
 
 .box-button:hover {
 	opacity: 1;
+}
+
+#scrollbar1 { 
+	width: 320px; 
+	clear: both; 
+	margin: 20px 0 10px; 
+}
+
+#scrollbar1 .viewport { 
+	width: 300px; 
+	height: 100%; 
+	overflow: hidden; 
+	position: relative; 
+}
+
+#scrollbar1 .overview { 
+	list-style: none; 
+	position: absolute; 
+	left: 0; 
+	top: 0; 
+}
+
+#scrollbar1 .thumb .end,
+#scrollbar1 .thumb { 
+	background: #888;
+}
+
+#scrollbar1 .scrollbar { 
+	display: none;
+	position: relative; 
+	float: right; 
+	width: 8px; 
+}
+
+#scrollbar1 .track { 
+	background-color: rgba(0,0,0,0.02); 
+	border-radius: 200px;
+	height: 100%; 
+	width: 8px; 
+	position: relative; 
+	padding: 0 0px; 
+}
+#scrollbar1 .thumb { 
+	border-radius: 200px;
+	height: 20px; 
+	width: 8px; 
+	cursor: pointer; 
+	overflow: hidden; 
+	position: absolute; 
+	top: 0; 
+}
+#scrollbar1 .thumb .end { 
+	overflow: hidden; 
+	height: 5px; 
+	width: 5px; 
+}
+#scrollbar1 .disable{ display: none; }
+.noSelect { user-select: none; -o-user-select: none; -moz-user-select: none; -khtml-user-select: none; -webkit-user-select: none; }
+
+.static {
+	position: fixed;
+	top: 0px;
 }
