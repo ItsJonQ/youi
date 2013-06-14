@@ -2,7 +2,7 @@
 
 <div class="span100 block-wrap big-featured">
 	<div class="block-image">
-		<img src="http://i.perezhilton.com/wp-content/uploads/2013/05/justin-bieber-segway-drugs-kids-neighbors-complain__oPt.jpg">
+		<img src="http://<?php echo $_SERVER['SERVER_NAME']; ?>/base/img/samsung-gs4.jpg">
 	</div>
 </div>
 
@@ -32,36 +32,21 @@
 			<article class="block-wrap">
 				<div class="block-content">
 					<div class="block-meta">
-						<a href="#" class="box-button">Justin Bieber
-						</a>
-						<a href="#" class="box-button">Drugs
-						</a>
-						<a href="#" class="box-button">Legal Matters
+						<a href="#" class="box-button">Mobile
 						</a>
 					</div>
 					<div class="block-title">
-						<h1>Justin Bieber Terrorizing Neighborhood With Drugs And Segways?!</h1>
+						<h1>Samsung Galaxy S4 on Verizon Will Offer Fastest Data Speeds Yet</h1>
 					</div>
 					<div class="block-meta">
-						By <strong>Perez Hilton</strong> | May 28, 2013
+						By <strong>Brandon Russel</strong> | May 28, 2013
 					</div>
 					<div class="row">
 						<div class="block-article span8">
 
-							<p>We thought we would LOVE to live next to <strong><a href="http://perezhilton.com/category/justin-bieber" target="_blank">Justin Bieber</a></strong>! Now we're not so sure!</p>
-
-							<p>First, <em>Boyfriend</em> gets accused of recklessly <a href="http://perezhilton.com/2013-05-28-justin-bieber-reckless-driving-gets-cops-called-to-house#.UaUJRbZNBiY" target="_blank">driving</a> his Ferrari around the neighborhood (an <a href="http://perezhilton.com/2013-05-28-justin-bieber-ferrari-calabasas-tyler-the-creator" target="_blank">accusation</a> that has now found its way stamped on <strong>Tyler, The Creator</strong>)!</p>
-
-							<p>Now, according to multiple complaints from neighbors, the Calabasas kids have a new word for terror- Segway!</p>
-
-							<p>OK, it's probably not quite as bad a car! We're not sure it's even possible to wreck the mobile Weebles!</p>
-
-							<p>But the Biebs and his buddy were reportedly riding around the neighborhood while smoking joints- right in front of kids!</p>
-
-							<p>Add in the noise <a href="http://perez.ly/11vLSS8" target="_blank">complaints</a> about late night parties, and now living next to Justin doesn't seem like such a coup!</p>
-
-							<p>[<em>Image via <a href="http://rameypix.net/" target="_blank">Ramey Pix</a></em>.]
-							</p>
+							<p><a title="Verizon Galaxy S4 Now Available for $200" href="http://www.technobuffalo.com/2013/05/23/verizon-galaxy-s4-now-available/">Samsung’s Galaxy S4</a> will support Verizon’s next network upgrade, which is expected to double the Internet speeds of today. According to Mike Haberman, vice president of network support for Verizon, all it’ll take is a simple software upgrade once the faster AWS spectrum is rolled out. Right now the service is scheduled to be available in larger metropolises in the next few months, including New York City.</p>
+							<p>Construction has been ongoing for Verizon as it looks to increase capacity of its LTE network. With smartphones becoming more prevalent by the day, data traffic is expected to increase by up to 7 times in only three years—at least on Verizon. The carrier said its using AWS airwaves acquired from cable companies and others, including Comcast Corp.</p>
+							<p>Right now, the S4 is the only known device to support the faster speeds; it’s unclear what other handsets will have the necessary components to work on Verizon’s Advance Wireless Service spectrum. With <a title="10M Galaxy S4 Units Shipped, New Colors This Summer" href="http://www.technobuffalo.com/2013/05/23/galaxy-s4-10-million-unit-sold/">10 million Galaxy S4 sales already reported</a>, plenty of consumers on Verizon will have future-proofed access to Verizon’s network upgrade.</p>
 
 						</div>
 					</div>
